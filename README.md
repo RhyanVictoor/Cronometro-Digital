@@ -14,7 +14,7 @@ Este é um cronômetro digital responsivo desenvolvido com HTML, CSS e JavaScrip
 
 ## Pré-requisitos
 
-Não há pré-requisitos específicos para utilizar este gerador de senha.
+Não há pré-requisitos específicos para utilizar.
 
 ## Contribuindo
 
