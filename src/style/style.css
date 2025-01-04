@@ -11,7 +11,7 @@ body {
     justify-content: center;
     height: 100vh;
     width: 100%;
-    background: linear-gradient(180deg, #9f6bff, #6119cc);
+    background: linear-gradient(180deg, #51515150, #525252);
 }
 
 #stopwatch {
@@ -32,7 +32,7 @@ body {
     background-color: #262626;
     height: 250px;
     width: 250px;
-    border: 3px solid #9f6bff;
+    border: 3px solid #e0e0e0;
     border-radius: 100%;
 }
 
@@ -58,7 +58,7 @@ body {
 }
 
 #actions button:hover {
-    background-color: #c4b5fd;
+    background-color: #f5f5f5;
 }
 
 #marks-list {
